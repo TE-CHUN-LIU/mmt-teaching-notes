@@ -1,0 +1,60 @@
+/* MMT 品牌色 — 深藍 + 金 + 米 */
+:root {
+  --sl-color-accent-low: #1a2d52;
+  --sl-color-accent: #c9a84c;
+  --sl-color-accent-high: #d9bc68;
+
+  --sl-color-white: #f5f1ea;
+  --sl-color-gray-1: #e9e4d8;
+  --sl-color-gray-2: #c8c1b0;
+  --sl-color-gray-3: #8c8a80;
+  --sl-color-gray-4: #5b594f;
+  --sl-color-gray-5: #2c2a25;
+  --sl-color-gray-6: #1d1c19;
+  --sl-color-black: #0f1f3d;
+}
+
+:root[data-theme='light'] {
+  --sl-color-accent-low: #f2ebd5;
+  --sl-color-accent: #9b7e32;
+  --sl-color-accent-high: #5c4920;
+
+  --sl-color-white: #1d1c19;
+  --sl-color-gray-1: #2c2a25;
+  --sl-color-gray-2: #4b483f;
+  --sl-color-gray-3: #6a675c;
+  --sl-color-gray-4: #b0aa9a;
+  --sl-color-gray-5: #e3dcc8;
+  --sl-color-gray-6: #f5f1ea;
+  --sl-color-gray-7: #faf7f1;
+  --sl-color-black: #ffffff;
+}
+
+/* 標題用襯線字體（更莊重） */
+.content-panel h1,
+.content-panel h2,
+.content-panel h3 {
+  font-family: "Noto Serif TC", "Songti TC", "PingFang TC", serif;
+  letter-spacing: 0.02em;
+}
+
+/* 主標金色強化 */
+.content-panel h1 {
+  border-bottom: 1px solid var(--sl-color-accent);
+  padding-bottom: 0.5rem;
+}
+
+/* 引用區塊的左邊金線 */
+blockquote {
+  border-left-color: var(--sl-color-accent) !important;
+}
+
+/* 表格美化 */
+.content-panel table {
+  border-collapse: collapse;
+}
+
+.content-panel th {
+  background: var(--sl-color-accent-low);
+  color: var(--sl-color-white);
+}

@@ -2,25 +2,45 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-// https://astro.build/config
 export default defineConfig({
-	integrations: [
-		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
-				},
-			],
-		}),
-	],
+  site: 'https://te-chun-liu.github.io',
+  base: '/mmt-teaching-notes',
+  trailingSlash: 'ignore',
+  integrations: [
+    starlight({
+      title: 'MMT 天賦探索營',
+      description: '兩天密集教案 · 17 張投影片完整備課',
+      defaultLocale: 'zh-tw',
+      locales: {
+        'zh-tw': { label: '繁體中文', lang: 'zh-TW' },
+      },
+      social: [
+        {
+          icon: 'github',
+          label: 'GitHub',
+          href: 'https://github.com/TE-CHUN-LIU/mmt-teaching-notes',
+        },
+      ],
+      sidebar: [
+        {
+          label: '課程總覽',
+          link: '/',
+        },
+        {
+          label: 'Day 1 · 系統地基與四大能量',
+          items: [{ autogenerate: { directory: 'day1' } }],
+        },
+        {
+          label: 'Day 2 · 神話總圖與 22 張牌',
+          items: [{ autogenerate: { directory: 'day2' } }],
+        },
+        {
+          label: '附錄',
+          items: [{ autogenerate: { directory: 'appendix' } }],
+        },
+      ],
+      customCss: ['./src/styles/brand.css'],
+      lastUpdated: true,
+    }),
+  ],
 });
