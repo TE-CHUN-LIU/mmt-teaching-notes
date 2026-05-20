@@ -10,9 +10,9 @@ export default defineConfig({
     starlight({
       title: 'MMT 天賦探索營',
       description: '兩天密集教案 · 17 張投影片完整備課',
-      defaultLocale: 'zh-tw',
+      defaultLocale: 'root',
       locales: {
-        'zh-tw': { label: '繁體中文', lang: 'zh-TW' },
+        root: { label: '繁體中文', lang: 'zh-TW' },
       },
       social: [
         {
