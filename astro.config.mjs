@@ -9,7 +9,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'MMT 天賦探索營',
-      description: '兩天密集教案 · 17 張投影片完整備課',
+      description: '兩天密集教案 · 17 張投影片完整備課 · 現場逐字稿課堂實錄',
       defaultLocale: 'root',
       locales: {
         root: { label: '繁體中文', lang: 'zh-TW' },
@@ -31,8 +31,16 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'day1' } }],
         },
         {
+          label: 'Day 1 課堂實錄 · 現場逐字稿',
+          items: [{ autogenerate: { directory: 'day1-live' } }],
+        },
+        {
           label: 'Day 2 · 神話總圖與 22 張牌',
           items: [{ autogenerate: { directory: 'day2' } }],
+        },
+        {
+          label: 'Day 2 課堂實錄 · 導師與陰影',
+          items: [{ autogenerate: { directory: 'day2-live' } }],
         },
         {
           label: '附錄',
