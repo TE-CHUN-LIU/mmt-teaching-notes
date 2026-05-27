@@ -8,7 +8,7 @@ export default defineConfig({
   trailingSlash: 'ignore',
   integrations: [
     starlight({
-      title: 'MMT 天賦探索營',
+      title: '人生策略筆記本',
       description: '兩天密集教案 · 17 張投影片完整備課 · 現場逐字稿課堂實錄',
       defaultLocale: 'root',
       locales: {
