@@ -64,6 +64,7 @@ export default defineConfig({
         { label: '6 · 能量精通商業帶人', items: [{ autogenerate: { directory: '06-energy-mastery' } }] },
         { label: '7 · 希臘神話架構', items: [{ autogenerate: { directory: '07-myth-foundation' } }] },
         { label: '8 · 22 種特質族譜', items: [{ autogenerate: { directory: '08-22-cards-tree' } }] },
+        { label: '★ 希臘神話深讀（22 原型）', items: [{ autogenerate: { directory: '20-myth-deep' } }] },
         { label: '9 · 風能量 6 種特質', items: [{ autogenerate: { directory: '09-wind-cards' } }] },
         { label: '10 · 火能量 5 種特質', items: [{ autogenerate: { directory: '10-fire-cards' } }] },
         { label: '11 · 水能量 6 種特質', items: [{ autogenerate: { directory: '11-water-cards' } }] },
