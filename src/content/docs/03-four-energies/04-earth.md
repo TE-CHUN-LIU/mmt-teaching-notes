@@ -79,7 +79,7 @@ sidebar:
 
 零土的帶人策略：用**獎勵機制**驅動（用獎賞滿足安全感），而非正規晉升階梯；激勵重點是「讓他感受到自己有了什麼」，而非「你現在缺什麼」。
 
-完整見 [6 · 能量精通商業帶人](/06-energy-mastery/01-business)、[5 · 零能量者](/05-zero-energy/01-detail) 相關頁面。
+完整見 [6 · 能量精通商業帶人](/mmt-teaching-notes/06-energy-mastery/01-business)、[5 · 零能量者](/mmt-teaching-notes/05-zero-energy/01-detail) 相關頁面。
 
 **講者要避開的坑**
 

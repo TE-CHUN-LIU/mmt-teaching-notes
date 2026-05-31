@@ -74,7 +74,7 @@ sidebar:
 
 > 「不容易感受悲哀，也不擅長處理情緒。面對情緒，大部分都是逃走、跑走的機率比較快。」
 
-完整見 [6 · 能量精通商業帶人](/06-energy-mastery/01-business)、[5 · 零能量者](/05-zero-energy/01-detail) 相關頁面。
+完整見 [6 · 能量精通商業帶人](/mmt-teaching-notes/06-energy-mastery/01-business)、[5 · 零能量者](/mmt-teaching-notes/05-zero-energy/01-detail) 相關頁面。
 
 **講者要避開的坑**
 

@@ -85,4 +85,4 @@ sidebar:
 
 ---
 
-四種特殊盤、零能量者、四大能量怎麼活得好，詳見 [4 · 特殊盤](/04-special-charts/01-overview)、[5 · 零能量者](/05-zero-energy/01-detail)、[6 · 能量精通商業帶人](/06-energy-mastery/01-business)。
+四種特殊盤、零能量者、四大能量怎麼活得好，詳見 [4 · 特殊盤](/mmt-teaching-notes/04-special-charts/01-overview)、[5 · 零能量者](/mmt-teaching-notes/05-zero-energy/01-detail)、[6 · 能量精通商業帶人](/mmt-teaching-notes/06-energy-mastery/01-business)。

@@ -107,4 +107,4 @@ sidebar:
 
 ---
 
-完整神話原型與系統架構見 [7 · 希臘神話架構與學理](/07-myth-foundation/01-architecture)。
+完整神話原型與系統架構見 [7 · 希臘神話架構與學理](/mmt-teaching-notes/07-myth-foundation/01-architecture)。

@@ -71,7 +71,7 @@ sidebar:
 
 > 「把這隻小蝸牛從第一步帶到第十步，這十步的過程讓他知道：原來我是可以的。」
 
-完整見 [6 · 能量精通商業帶人](/06-energy-mastery/01-business)、[5 · 零能量者](/05-zero-energy/01-detail) 相關頁面。
+完整見 [6 · 能量精通商業帶人](/mmt-teaching-notes/06-energy-mastery/01-business)、[5 · 零能量者](/mmt-teaching-notes/05-zero-energy/01-detail) 相關頁面。
 
 **講者要避開的坑**
 

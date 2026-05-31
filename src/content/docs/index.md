@@ -14,30 +14,30 @@ sidebar:
 | # | 章節 | 主軸 |
 |---|------|------|
 | **入門** | | |
-| 1 | [MMT 概論](/01-mmt-intro/01-what-is-mmt) | 是什麼、三字母由來、文化定位、四大學派根基 |
-| 2 | [五大核心地圖](/02-core-map/01-five-cores) | 四大能量／天賦／導師／陰影／年度策略 + 表潛意識分層 |
+| 1 | [MMT 概論](/mmt-teaching-notes/01-mmt-intro/01-what-is-mmt) | 是什麼、三字母由來、文化定位、四大學派根基 |
+| 2 | [五大核心地圖](/mmt-teaching-notes/02-core-map/01-five-cores) | 四大能量／天賦／導師／陰影／年度策略 + 表潛意識分層 |
 | **能量** | | |
-| 3 | [四大能量](/03-four-energies/01-wind) | 風火水土的人才屬性與基礎結構 |
-| 4 | [特殊盤](/04-special-charts/01-overview) | 全 25、三高、一柱擎天、為零盤 |
-| 5 | [零能量者詳解](/05-zero-energy/01-detail) | 匱乏→渴望、左右極端吸引、四種零能量 |
-| 6 | [能量精通商業帶人](/06-energy-mastery/01-business) | 各能量在團隊／業務／IP 場景 |
+| 3 | [四大能量](/mmt-teaching-notes/03-four-energies/01-wind) | 風火水土的人才屬性與基礎結構 |
+| 4 | [特殊盤](/mmt-teaching-notes/04-special-charts/01-overview) | 全 25、三高、一柱擎天、為零盤 |
+| 5 | [零能量者詳解](/mmt-teaching-notes/05-zero-energy/01-detail) | 匱乏→渴望、左右極端吸引、四種零能量 |
+| 6 | [能量精通商業帶人](/mmt-teaching-notes/06-energy-mastery/01-business) | 各能量在團隊／業務／IP 場景 |
 | **22 種特質** | | |
-| 7 | [希臘神話架構與學理](/07-myth-foundation/01-architecture) | 三階段演化、生命之樹、三大支柱 |
-| 8 | [22 種特質族譜](/08-22-cards-tree/01-mythology-tree) | 全 22 神的家譜總圖 |
-| 9 | [風能量 6 種特質](/09-wind-cards/01-cards) | 0／1／6／11／17／20 |
-| 10 | [火能量 5 種特質](/10-fire-cards/01-cards) | 4／8／14／16／19 |
-| 11 | [水能量 6 種特質](/11-water-cards/01-cards) | 2／3／7／12／13／18 |
-| 12 | [土能量 5 種特質](/12-earth-cards/01-cards) | 5／9／10／15／21 |
+| 7 | [希臘神話架構與學理](/mmt-teaching-notes/07-myth-foundation/01-architecture) | 三階段演化、生命之樹、三大支柱 |
+| 8 | [22 種特質族譜](/mmt-teaching-notes/08-22-cards-tree/01-mythology-tree) | 全 22 神的家譜總圖 |
+| 9 | [風能量 6 種特質](/mmt-teaching-notes/09-wind-cards/01-cards) | 0／1／6／11／17／20 |
+| 10 | [火能量 5 種特質](/mmt-teaching-notes/10-fire-cards/01-cards) | 4／8／14／16／19 |
+| 11 | [水能量 6 種特質](/mmt-teaching-notes/11-water-cards/01-cards) | 2／3／7／12／13／18 |
+| 12 | [土能量 5 種特質](/mmt-teaching-notes/12-earth-cards/01-cards) | 5／9／10／15／21 |
 | **行為與內在** | | |
-| 13 | [行為模式](/13-behavior-modes/01-detail) | 感知行 vs 認知行 + 產業地圖 |
-| 14 | [導師與陰影](/14-mentor-shadow/01-overview) | 結構、計算公式、三大類型 |
-| 15 | [12 導師卡點詳解](/15-mentor-blocks/01-detail) | 導 1–導 12 的內在卡點與應對 |
+| 13 | [行為模式](/mmt-teaching-notes/13-behavior-modes/01-detail) | 感知行 vs 認知行 + 產業地圖 |
+| 14 | [導師與陰影](/mmt-teaching-notes/14-mentor-shadow/01-overview) | 結構、計算公式、三大類型 |
+| 15 | [12 導師卡點詳解](/mmt-teaching-notes/15-mentor-blocks/01-detail) | 導 1–導 12 的內在卡點與應對 |
 | **商業與時序** | | |
-| 16 | [五種財富賺錢模式](/16-wealth-modes/01-five-modes) | 股東／提案／資源／系統／結構 |
-| 17 | [團隊三部曲](/17-team-stages/01-three-stages) | 創始期／成長期／成熟期的能量配置 |
-| 18 | [流年與年度策略](/18-year-strategy/01-detail) | 好年壞年高光年、第七顆無敵星星 |
+| 16 | [五種財富賺錢模式](/mmt-teaching-notes/16-wealth-modes/01-five-modes) | 股東／提案／資源／系統／結構 |
+| 17 | [團隊三部曲](/mmt-teaching-notes/17-team-stages/01-three-stages) | 創始期／成長期／成熟期的能量配置 |
+| 18 | [流年與年度策略](/mmt-teaching-notes/18-year-strategy/01-detail) | 好年壞年高光年、第七顆無敵星星 |
 | **附錄** | | |
-| 19 | [速查表與附錄](/19-appendix/03-card-quick-ref) | 22 種特質一句話速查、跨特質組合、面談題庫 |
+| 19 | [速查表與附錄](/mmt-teaching-notes/19-appendix/03-card-quick-ref) | 22 種特質一句話速查、跨特質組合、面談題庫 |
 
 ---
 

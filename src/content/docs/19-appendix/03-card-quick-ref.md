@@ -127,6 +127,6 @@ sidebar:
 | 17 | 媒合、美業、顧問、社福、說話藝術 |
 | 20 | 風險與危機、財富累積、計畫完善、財商、玄學 |
 
-> 火／水／土的對應業務散見各能量卡片頁的「**適合工作**」段落（[10 · 火能量](/10-fire-cards/01-cards) / [11 · 水能量](/11-water-cards/01-cards) / [12 · 土能量](/12-earth-cards/01-cards)），這裡只列風能量做總覽範例。
+> 火／水／土的對應業務散見各能量卡片頁的「**適合工作**」段落（[10 · 火能量](/mmt-teaching-notes/10-fire-cards/01-cards) / [11 · 水能量](/mmt-teaching-notes/11-water-cards/01-cards) / [12 · 土能量](/mmt-teaching-notes/12-earth-cards/01-cards)），這裡只列風能量做總覽範例。
 
 ---

@@ -72,7 +72,7 @@ sidebar:
 
 > 「超級學習者——非常願意花錢上課，因為學習本身就是從專家身上挖自我價值的過程。」
 
-完整見 [6 · 能量精通商業帶人](/06-energy-mastery/01-business)、[5 · 零能量者](/05-zero-energy/01-detail) 相關頁面。
+完整見 [6 · 能量精通商業帶人](/mmt-teaching-notes/06-energy-mastery/01-business)、[5 · 零能量者](/mmt-teaching-notes/05-zero-energy/01-detail) 相關頁面。
 
 **講者要避開的坑**
 

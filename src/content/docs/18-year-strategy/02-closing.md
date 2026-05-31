@@ -47,7 +47,7 @@ sidebar:
 
 > 「如果高光年成績卻沒有很好，可能是因為行為模式跟情緒基調沒有處理好。」
 
-流年完整見 [18 · 流年好壞年與收尾](/18-year-strategy/01-detail)。
+流年完整見 [18 · 流年好壞年與收尾](/mmt-teaching-notes/18-year-strategy/01-detail)。
 
 **Q&A 預先準備（高頻問題）**
 
